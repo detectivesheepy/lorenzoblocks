@@ -1,0 +1,4 @@
+Adress:     lorenzoblocks.aternos.me
+Port:       41950
+
+https://aternos.gmbh/en/aternos/terms
